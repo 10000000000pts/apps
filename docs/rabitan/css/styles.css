@@ -13,18 +13,18 @@ p {
 .title {
   text-align: center;
   color: Black;
-  font-size: 200%;
+  font-size: 400%;
 }
 .body {
   color: Black;
-  font-size: 100%;
+  font-size: 200%;
 }
 .date {
   text-align: right;
   color: black;
-  font-size: 100%;
+  font-size: 200%;
 }
 .mail {
   color: black;
-  font-size: 100%;
+  font-size: 200%;
 }
